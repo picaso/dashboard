@@ -1,0 +1,55 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Leverage","value":3},{"label":"Pivoting","value":5},{"label":"Paradigm shift","value":5},{"label":"Exit strategy","value":2},{"label":"Synergy","value":7},{"label":"Streamlininess","value":5},{"label":"Turn-key","value":4},{"label":"Web 2.0","value":6},{"label":"Enterprise","value":1}],"id":"buzzwords","updatedAt":1415803196}
+
+convergence: |+
+  data: {"points":[{"x":39,"y":46},{"x":40,"y":27},{"x":41,"y":47},{"x":42,"y":1},{"x":43,"y":46},{"x":44,"y":49},{"x":45,"y":30},{"x":46,"y":6},{"x":47,"y":15},{"x":48,"y":26}],"id":"convergence","updatedAt":1415803196}
+
+valuation: |+
+  data: {"current":79,"last":86,"id":"valuation","updatedAt":1415803196}
+
+karma: |+
+  data: {"current":58483,"last":190901,"id":"karma","updatedAt":1415803196}
+
+synergy: |+
+  data: {"value":47,"id":"synergy","updatedAt":1415803196}
+
+build: |+
+  data: {"value":51,"id":"build","updatedAt":1407795536}
+
+myapp: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","number":39,"url":"http://jenkins1.qatools.tash1.syseng.tmcs:8080/jenkins/job/cop-GoldenGate-release-intqa1/39/","timestamp":1407482132000,"id":"myapp","updatedAt":1408140167}
+
+JOB: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1407482132395,"number":39,"url":"http://jenkins1.qatools.tash1.syseng.tmcs:8080/jenkins/job/cop-GoldenGate-release-intqa1/39/","value":0,"id":"JOB","updatedAt":1407493306}
+
+UAT-QA: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1409777312583,"number":52,"url":"http://jenkins1.qatools.tash1.syseng.tmcs:8080/jenkins/job/cop-GoldenGate-QA-UAT-intqa101/52/","value":0,"duration":207850,"id":"UAT-QA","updatedAt":1409779859}
+
+UAT-DEV: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1415730243288,"number":708,"url":"http://jenkins.cyanogenmod.org/job/cm-build-all/708/","value":0,"duration":151446,"id":"UAT-DEV","updatedAt":1415803112}
+
+BUILD: |+
+  data: {"currentResult":"BUILDING","lastResult":"BUILDING","timestamp":1415802779498,"number":90483,"url":"http://jenkins.cyanogenmod.org/job/android/90483/","value":99,"duration":0,"id":"BUILD","updatedAt":1415803112}
+
+JETDEV-DEPLOY: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1409766623394,"number":47,"url":"http://jenkins1.qatools.tash1.syseng.tmcs:8080/jenkins/job/cop-GoldenGate-deploy-jetdev1/47/","value":0,"duration":239335,"id":"JETDEV-DEPLOY","updatedAt":1409779859}
+
+DEV-DEPLOY: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1400184178000,"number":63774,"url":"http://jenkins.cyanogenmod.org/job/recovery-deprecated/63774/","value":0,"duration":251068,"id":"DEV-DEPLOY","updatedAt":1415803112}
+
+CUT_RELEASE: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1415729679729,"number":11408,"url":"http://jenkins.cyanogenmod.org/job/submission-test/11408/","value":0,"duration":2536015,"id":"CUT_RELEASE","updatedAt":1415803112}
+
+CM: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1415730243288,"number":708,"url":"http://jenkins.cyanogenmod.org/job/cm-build-all/708/","value":0,"duration":151446,"id":"CM","updatedAt":1415803195}
+
+REC_DEP: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1400184178000,"number":63774,"url":"http://jenkins.cyanogenmod.org/job/recovery-deprecated/63774/","value":0,"duration":251068,"id":"REC_DEP","updatedAt":1415803195}
+
+SUBM_TEST: |+
+  data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1415729679729,"number":11408,"url":"http://jenkins.cyanogenmod.org/job/submission-test/11408/","value":0,"duration":2536015,"id":"SUBM_TEST","updatedAt":1415803195}
+
+ANDROID: |+
+  data: {"currentResult":"BUILDING","lastResult":"BUILDING","timestamp":1415802779498,"number":90483,"url":"http://jenkins.cyanogenmod.org/job/android/90483/","value":99,"duration":0,"id":"ANDROID","updatedAt":1415803195}
+

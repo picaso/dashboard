@@ -1,0 +1,30 @@
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Open+Sans:400,600:latin',] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<h1 class="title" data-bind="title"></h1>
+
+<input class="jenkins-build" data-angleOffset=-125 data-angleArc=250 data-fgColor="#C0ffff"  data-skin="tron" data-thickness=".3" data-width=200 data-readOnly=true data-bind-value="value | shortenedNumber" data-bind-data-min="min" data-bind-data-max="max">
+
+<p class="build">
+    <i class="icon-info-sign"></i> <span data-bind="timestamp2"></span>
+</p>
+<div class="duration">
+    <i class="icon-time"></i> <span data-bind="duration-readable"></span>&nbsp;</a>
+</div>
+<div class="more-information">
+    <a data-bind-href="console-url" title="console" target="_blank"><i class="icon-desktop"></i> &nbsp;</a>
+
+    <a data-bind-href="url" title="build number" target="_blank"><i class="icon-wrench"></i> <span data-bind="number"></span></a>
+</div>
+
+
